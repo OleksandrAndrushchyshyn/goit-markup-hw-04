@@ -132,6 +132,10 @@ img {
 .tel-link:focus {
   color: var(--accent-color);
 }
+.contact-icon:hover,
+.contact-icon:focus {
+  color: var(--accent-color);
+}
 .contact-icon{
   margin-right: 10px;
   fill: currentColor;
